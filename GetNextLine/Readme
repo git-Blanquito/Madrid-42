@@ -1,0 +1,1 @@
+GetNextLine es una función que devuelve la primera linea del file descriptor enviado como argumento hasta encontrar un salto de linea o llegar al final del archivo.
